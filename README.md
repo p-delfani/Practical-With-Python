@@ -12,7 +12,7 @@ In this list, we have a software robot that can read texts and the reading speed
 second time I wrote a notepad to store your phone number, this program will store your phone number in the specified directory and allow access to it.
 
 
-![bandicam 2022-12-30 00-22-32-769](https://user-images.githubusercontent.com/91133322/210012293-e39c8952-3577-44fb-96ff-249ff9c88fa9.jpg)
+![bandicam 2022-12-30 00-52-52-405](https://user-images.githubusercontent.com/91133322/210012409-b5667d5e-5d01-4653-8e40-ada477286e74.jpg)
 
 
 In the third program, a novelty game similar to old Atari games (Ping)
