@@ -1,4 +1,4 @@
-Hi guys ! in this repository I am working on implementing simple and beginner projects with Python 
+Hi guys ! in this repository I am working on implementing simple and beginner projects with Python (use Turtle and tkinter)
 
 ![robot-code-robotics-robotic-programming-language](https://user-images.githubusercontent.com/91133322/210011582-88327626-f2ac-4ec1-9734-4a9b15a3b4c9.png)
 
@@ -22,3 +22,6 @@ In the third program,I wrote a notepad to store your phone number, this program 
 
 
 In the Fourth program, I designed a calculator to calculate numbers. This machine can calculate integers and decimals
+
+
+I would be happy to use that simple code in your project
