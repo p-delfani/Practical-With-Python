@@ -1,4 +1,4 @@
-Hi guys ! in this repository I am working on implementing simple and beginner projects with Python (use Turtle and tkinter)
+Hi guys ! in this repository I am working on implementing simple and beginner projects with Python (use Turtle and tkinter for graphic user interface)
 
 ![robot-code-robotics-robotic-programming-language](https://user-images.githubusercontent.com/91133322/210011582-88327626-f2ac-4ec1-9734-4a9b15a3b4c9.png)
 
